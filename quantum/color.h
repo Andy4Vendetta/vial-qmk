@@ -44,7 +44,7 @@
 #define RGB_TURQUOISE   0x47, 0x6E, 0x6A
 #define RGB_WHITE       0xFF, 0xFF, 0xFF
 #define RGB_YELLOW      0xFF, 0xFF, 0x00
-#define RGB_PONK        0xFF, 0x5A, 0xDC
+#define RGB_PONK        0xFF, 0x14, 0xDC
 #define RGB_OFF         RGB_BLACK
 
 /*
@@ -71,7 +71,7 @@
 #define HSV_TURQUOISE   123,  90, 112
 #define HSV_WHITE         0,   0, 255
 #define HSV_YELLOW       43, 255, 255
-#define HSV_PONK         255, 90, 220
+#define HSV_PONK         255, 20, 220
 #define HSV_OFF         HSV_BLACK
 
 // clang-format on
